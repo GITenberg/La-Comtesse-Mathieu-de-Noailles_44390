@@ -1,0 +1,27 @@
+_repo: La-Comtesse-Mathieu-de-Noailles_44390
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44390-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gillouin, René
+    alias: Gillouin, Rene
+    birthdate: 1881
+    gutenberg_agent_id: '42724'
+    url: http://www.gutenberg.org/2009/agents/42724
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2013-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44390'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Noailles, Anna de, 1876-1933'
+- !lcc 'PQ'
+title: La Comtesse Mathieu de Noailles
+url: http://www.gutenberg.org/ebooks/44390
