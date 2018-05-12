@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42724'
     url: http://www.gutenberg.org/2009/agents/42724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44390#La-Comtesse-Mathieu-de-Noailles
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2013-12-08'
 gutenberg_type: Text
